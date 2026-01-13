@@ -1,4 +1,4 @@
-#This CNN Toolbox demonstrates the effect of following parameters on convolutional neural layers
+This CNN Toolbox demonstrates the effect of following parameters on convolutional neural layers
 
 Number of Strides
 Number of Kernels
